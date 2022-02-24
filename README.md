@@ -9,4 +9,5 @@ The purpose of the analysis was to identify the bad vehicle purchases, from good
 
 “Is Bad Buy” was the target binary variable (“0” = not a bad buy, “1” = bad buy).  The target variable was unevenly proportioned and skewed heavily in favor of not bad purchases (n = 64,007; 87.70%). Bad purchases totaled 8,976 of the 72,983 observations (12.30%). The imbalance percentage is 75.4%.
 
+The full report can be found in the file "Assignment2_Hunfalvay.pdf". This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data preparation, results, and interpretations. Tables and visualizations are also included.
 
